@@ -12,7 +12,7 @@ Program works with machine learning, multilingual OCR toolkits, ffmpeg, a flask 
   - Paddle works on docker because it requires a specific version of Linux. But a flask API is developed to make it work. You just have to launch the docker command. See the explanations about the installation.
 - [Videocr](https://github.com/oliverfei/videocr-PaddleOCR) Extract hardcoded (burned-in) subtitles from videos using the PaddleOCR OCR engine with Python
   - videocr is integrated in the flask api which is launched with the docker.
-- [Streamlit] (https://streamlit.io/) a graphical interface allows to manage all the process of file upload, Youtube video download as well as cropping and subtitle extraction.
+- [Streamlit](https://streamlit.io/) a graphical interface allows to manage all the process of file upload, Youtube video download as well as cropping and subtitle extraction.
 
 ##how to install it
 
